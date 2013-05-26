@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content">
+        <name>plg_content_mwoarena</name>
+        <author>Wayde Willson, Dr. Amnesia</author>
+        <creationDate>May 20, 2013</creationDate>
+        <copyright>MWO Arena</copyright>
+        <license> ??? </license>
+        <authorEmail>wwillson90@gmail.com, drcatalystic@gmail.com</authorEmail>
+        <authorUrl>http://www.mwoarena.com/plugin.html</authorUrl>
+        <version>0.1.0</version>
+        <description>A drop-in tool for accessing the MWO Arena system</description>
+        <files>
+          <filename plugin="mwoarena">mwoarena/duels-list.html</filename>
+          <filename plugin="mwoarena">mwoarena/duel-add.html</filename>
+          <filename plugin="mwoarena">mwoarena/duels-local.html</filename>
+          <filename plugin="mwoarena">mwoarena/Duels.html</filename>
+          <filename plugin="mwoarena">mwoarena/duels-add.html</filename>
+          <filename plugin="mwoarena">mwoarena/Content/MWOArenaAPI.Duels.css</filename>
+          <filename plugin="mwoarena">mwoarena/Scripts/MWOArena.duels.local.js</filename>
+          <filename plugin="mwoarena">mwoarena/Scripts/duels-list.js</filename>
+          <filename plugin="mwoarena">mwoarena/Scripts/jquery-1.7.2.js</filename>
+          <filename plugin="mwoarena">mwoarena/Scripts/MWOArena.duels.js</filename>
+          <filename plugin="mwoarena">mwoarena/Scripts/jquery.validate.js</filename>
+          <filename plugin="mwoarena">mwoarena/Scripts/duels-add.js</filename>
+        </files>
+</extension>
